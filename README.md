@@ -1,2 +1,2 @@
 # ConsoleContacts
-Этот проект - это консольное приложение для управления списком контактов. Пользователь может добавлять, просматривать, редактировать и удалять контакты.
+This project is a console application for managing a list of contacts. The user can add, view, edit, and delete contacts.
